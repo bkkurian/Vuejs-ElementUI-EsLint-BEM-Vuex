@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Assignment on Acronis on 15th",
+        "completed": false
+    },{
+        "id": 2,
+        "title": "Jest Integration",
+        "completed": true
+    },{
+        "id": 3,
+        "title": "Axios Integration",
+        "completed": true
+    },{
+        "id": 4,
+        "title": "Vuex Integration(Store, Mutations, Actions and Getters)",
+        "completed": true
+    },{
+        "id": 5,
+        "title": "Element UI Integration",
+        "completed": true
+    }
+]

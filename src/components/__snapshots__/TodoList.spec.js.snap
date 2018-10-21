@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList snapshot should match with default snapshot 1`] = `
+<div
+  class="todolist"
+>
+  <div
+    class="el-row todolist__mainContent"
+  >
+    <div
+      class="el-row"
+    >
+      <div
+        class="el-col el-col-20"
+      >
+        <elinput-stub
+          autocomplete="off"
+          name="addTodoItem"
+          placeholder="Create task"
+          type="text"
+          validateevent="true"
+          value=""
+        />
+      </div>
+       
+      <div
+        class="el-col el-col-1"
+      >
+         
+      
+      </div>
+       
+      <div
+        class="el-col el-col-3"
+      >
+        <elbutton-stub
+          class="el-button--primary"
+          icon=""
+          name="AddButton"
+          nativetype="button"
+          size="medium"
+          type="button"
+        >
+          <span>
+            Add
+          </span>
+        </elbutton-stub>
+      </div>
+    </div>
+  </div>
+   
+  <span />
+</div>
+`;
